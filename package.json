@@ -2,6 +2,7 @@
     "name": "fcc-learn-npm-package-json",
     "author": "Paul Pritchard",
     "version": "22/09/2021",
+    "description": "Solves the problems asked by the FreeCodeCamp Back End Development tutorial",
     "dependencies": {
         "express": "^4.14.0"
     },
